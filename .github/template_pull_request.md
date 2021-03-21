@@ -10,6 +10,10 @@
 
 <!-- Demonstrações da funcionalidade -->
 
+## Problemas?
+
+<!-- Demonstrações da funcionalidade -->
+
 ## Foi testado nos Navegadores
 
 - [ ] Safari
