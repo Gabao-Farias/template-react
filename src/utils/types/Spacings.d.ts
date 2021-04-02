@@ -1,4 +1,4 @@
-type Spacings = {
+declare type Spacings = {
   insane: number;
   huge: number;
   giant: number;
