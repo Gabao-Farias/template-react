@@ -4,6 +4,7 @@ declare type Breakpoints = {
   mobileWider: number;
   tablet: number;
   smallLaptop: number;
+  largeLaptop: number;
   fullHD: number;
   ultraWide: number;
 };
