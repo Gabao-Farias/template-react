@@ -20,7 +20,7 @@ declare type ColorTheme = {
 };
 
 declare type DarkLightTheme = {
-  light?: ColorTheme;
+  light: ColorTheme;
   dark: ColorTheme;
 };
 
