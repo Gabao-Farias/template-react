@@ -1,6 +1,6 @@
 import React from 'react';
-import { ValueInsertedProvider } from './index';
+import { ThemeProvider } from './index';
 
 export const MainProvider: React.FC = ({ children }) => {
-  return <ValueInsertedProvider>{children}</ValueInsertedProvider>;
+  return <ThemeProvider>{children}</ThemeProvider>;
 };
